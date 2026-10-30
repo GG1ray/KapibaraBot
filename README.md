@@ -1,6 +1,6 @@
 # KapibaraBot
 
-Komutlar: `!tsundere`, `!yandere`, `!yalan`, `!kapibara` — yazan kişinin adını ve rastgele bir yüzde verir. `/help` komut listesini sadece yazan kişiye gösterir.
+Komutlar: `!tsundere`, `!yandere`, `!yalan`, `!kapibara`, `!uyku` — yazan kişinin adını ve rastgele bir yüzde verir. `/help` komut listesini sadece yazan kişiye gösterir.
 
 ## Kurulum
 

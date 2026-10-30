@@ -16,6 +16,7 @@ SEVIYELER = {
     "yandere": "{adin} yandere seviyesi şu anda: %{yuzde} 🔪",
     "yalan": "{adin} yalancı seviyesi şu anda: %{yuzde} 🤫",
     "kapibara": "{adin} kapibara seviyesi şu anda: %{yuzde} 😌",
+    "uyku": "{adin} uyku seviyesi şu anda: %{yuzde} 😴",
 }
 
 # Büyük harfler ayrıca yazıldı çünkü Python'da "I".lower() "i" verir, Türkçede yanlış olur.
